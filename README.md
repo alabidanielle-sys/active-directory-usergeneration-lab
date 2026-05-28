@@ -1,4 +1,4 @@
-[README1.md](https://github.com/user-attachments/files/28369309/README1.md)
+
 # Active Directory Home Lab
 
 A hands-on home lab built inside Oracle VirtualBox, walking through the full setup of a Windows Server 2022 environment — from bare server to a functioning domain with DNS, DHCP, NAT routing, and hundreds of users created automatically via PowerShell. This lab simulates what a real small corporate network looks like from the ground up.
